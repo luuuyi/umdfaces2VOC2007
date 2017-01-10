@@ -1,0 +1,2 @@
+# umdfaces2VOC2007
+将umdfaces数据库做成VOC2007格式，方便深度学习训练
